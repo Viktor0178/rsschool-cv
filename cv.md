@@ -1,7 +1,8 @@
 # __Viktar Kevarkou__ ![photo](./photo/avatar.jpg) 
 ## __Business Application Support Specialist__ 
   
-
+### ABOUT ME  
+Experienced manager with a background in sales. My strongest sides are dealing with customers and documents. I'm responsible, purposeful and self-motivated. It helps me do my work in the best way. Study HTML5, CSS3, JS. I'm open for new experience and I'm ready to get new knowledge.
 
 ### EDUCATION
 * 2015 - 2020  
@@ -17,7 +18,9 @@ The simplest Browser game
 + In case you get 3 right answer in a row, you will receive next message 'You win!';  
 _Example of code_ [simple browser game.](https://github.com/Viktor0178/HexletCoding.git)  
 
-
+### LANGUAGE  
+* English - B1+;  
+* Russian - Native; 
 
 ### WORK EXPERIENCE
 * 2015 - 2021  
