@@ -46,5 +46,3 @@ __Main tasks:__
 + _Discord:_ Viktar(@viktor0178)
 + _Gmail:_ vitek.kevorkov@gmail.com  
 
-_[Link to the CV](https://github.com/Viktor0178/rsschool-cv/blob/gh-pages/cv.md)_
-
