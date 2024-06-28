@@ -17,9 +17,7 @@ The simplest Browser game
 + In case you are wrong, you will receive next message 'You lose!';
 + In case you get 3 right answer in a row, you will receive next message 'You win!';  
 _Example of code_ [simple browser game.](https://github.com/Viktor0178/HexletCoding.git)  
-### LANGUAGE  
-* English - B1+;  
-* Russian - Native;  
+
 
 ### WORK EXPERIENCE
 * 2015 - 2021  
