@@ -1,4 +1,4 @@
-# __Viktar Kevarkou__ 
+# __Viktar Kevarkou__ ![photo](./photo/avatar.jpg) 
 ## __Business Application Support Specialist__ 
   
 ### ABOUT ME  
