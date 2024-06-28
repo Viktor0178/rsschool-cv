@@ -31,7 +31,7 @@ __Main tasks:__
 + Work with documents (transport log, Foreign Economic Activity)  
   
 * 2021 - present  
-_Business Application Support Specialist_  
+_Business Application Support Specialist, EPAM, Minsk/Vilnius_  
 __Main tasks:__  
 + Billing Reconciliation tool configuration and support 
 + Digitize and map data to PDF enrollment forms 
@@ -44,5 +44,7 @@ __Main tasks:__
 
 ### CONTACT ME  
 + _Discord:_ Viktar(@viktor0178)
-+ _Gmail:_ vitek.kevorkov@gmail.com
++ _Gmail:_ vitek.kevorkov@gmail.com  
+
+_[Link to the CV](https://github.com/Viktor0178/rsschool-cv/blob/gh-pages/cv.md)_
 
