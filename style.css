@@ -1,3 +1,40 @@
-p {
-  font-size: 18px;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+header {
+  background-color: darkcyan;
+}
+
+.navigation {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  color: aliceblue;
+}
+
+.navigation li {
+  margin: 5px;
+  padding: 5px;
+}
+
+
+
+footer {
+  background-color: darkcyan;
+}
+
+.footer-contact {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-rsschool {
+  width: 10vw;
+  height: 20vh;
 }
