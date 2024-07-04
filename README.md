@@ -1,1 +1,1 @@
-_[Link to the CV](https://github.com/Viktor0178/rsschool-cv/blob/gh-pages/cv.md)_
+https://viktor0178.github.io/rsschool-cv/
