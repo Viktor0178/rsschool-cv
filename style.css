@@ -1,0 +1,87 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  background-color: #c0d3d3;
+  color: #596060;
+}
+
+
+header {
+  background-color: darkcyan;
+}
+
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+
+}
+
+.navigation-list {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  color: aliceblue;
+
+}
+
+.navigation-list li {
+  margin: 5px;
+  padding: 5px;
+}
+
+.bio {
+  margin: 5%;
+  color: #596060;
+}
+
+.bio img {
+  border-radius: 50%;
+}
+
+.bio hr {
+  border: 5px solid #a6afaf;
+  border-radius: 5px;
+}
+
+
+main {
+  padding: 2%;
+  margin: 2%;
+}
+
+main h2 {
+  color: rgb(89, 130, 89);
+}
+
+
+
+
+
+footer {
+  background-color: darkcyan;
+  height: 10%;
+}
+
+.footer-contact {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-rsschool {
+  width: 30%;
+  height: 30%;
+}
